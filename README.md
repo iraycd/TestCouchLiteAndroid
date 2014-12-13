@@ -15,7 +15,7 @@ Entire thing is written in [`PlaceholderFragment`](app/src/main/java/com/iraycd/
 
 # Extra Things which can implement and can be used.
 
-### [`Keys.java`](app/src/main/java/com/iraycd/testcouchdblite/utils/Keys.java` has all the keys the Keys)
+### [`Keys.java`](app/src/main/java/com/iraycd/testcouchdblite/utils/Keys.java`)
 
     package com.iraycd.testcouchdblite.utils;
     public class Keys {
