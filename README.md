@@ -1,13 +1,12 @@
 # Trying CouchDB Lite Android
 
-This is the most simplest code for CRUD using CouchDB Lite on Android.
-It's simple and just jump into it and use it.
+This is the simplest code for CRUD using CouchDB Lite on Android.
 
-Entire thing is written in `PlaceholderFragment` insdie `MainActivity.java`
-
+Entire thing is written in [`PlaceholderFragment`](app/src/main/java/com/iraycd/testcouchdblite/MainActivity.java#L68) inside
 [`MainActivity.java`](app/src/main/java/com/iraycd/testcouchdblite/MainActivity.java)
 
-Note: This is really simple thing. Just for reference and getting started.
+
+*Note:* This is really simple thing. Just for reference and getting started.
 
 ## Thing you may use from here:
 
